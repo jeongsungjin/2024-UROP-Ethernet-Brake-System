@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/seongjinjeong/STUDY/2024_UROP_Ethernet_brake_system",
+      "program": "/Users/seongjinjeong/STUDY/2024_UROP_Ethernet_brake_system/build/Debug/outDebug"
+    }
+  ]
+}
